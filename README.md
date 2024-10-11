@@ -16,9 +16,8 @@
 3. Background design created in PowerPoint
 
 ## Key Features
-| Overview| Description|
-|---------|------------|
-|![Overview](https://github.com/elizabethwanjiku703/Analyzing-Customer-Churn-in-Power-BI/blob/main/Overview.jpg)|This provides a clear report that explains how churn categories, types of contracts, reasons, and states can affect churn.|
-
-
+| Overview|Age Group, Contract Types and Payment Method|
+|---------|--------------------------------------------|
+|![Overview](https://github.com/elizabethwanjiku703/Analyzing-Customer-Churn-in-Power-BI/blob/main/Overview.jpg)|![Age & Payments](https://github.com/elizabethwanjiku703/Analyzing-Customer-Churn-in-Power-BI/blob/main/Payment%26Contract.jpg)|
+|This provides a clear report that explains how churn categories, types of contracts, reasons, and states can affect churn.|This report provides insights into age groups, contract types, payment methods, and relevant charges based on data consumption.|
 
